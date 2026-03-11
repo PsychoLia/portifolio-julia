@@ -104,8 +104,8 @@ footer {
         top: 100%;
         right: 0;
         width: 40%;
-        border-left: 3px solid #b74b4b;
-        border-bottom: 3px solid #b74b4b;
+        border-left: 3px solid #E8DBD2;
+        border-bottom: 3px solid #E8DBD2;
         border-bottom-left-radius: 2rem;
         padding: 1rem;
         background-color: #161616;
@@ -126,7 +126,7 @@ footer {
     nav a.active{
         padding: 1rem;
         border-radius: 0.5rem;
-        border-bottom: 0.5rem solid #b74b4b;
+        border-bottom: 0.5rem solid #D4B3C3;
     }
 }
 
@@ -155,7 +155,7 @@ section{
 }
 
 span{
-    color: #b74b4b;
+    color: #ffeff7;
 }
 
 .home-content h3{
@@ -178,7 +178,7 @@ span{
     position: relative;
     width: 32vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px solid #b74b4b;
+    box-shadow: 0 0 25px solid #D4B3C3;
     cursor: pointer;
     transition: 0.2s linear;
 }
@@ -216,7 +216,7 @@ span{
 .aboutme-img img{
     width: 25vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px rgba(183, 74, 74, 0.5);
+    box-shadow: 0 0 25px #6b545f;
 }
 
 /*⏔⏔⏔ ꒰ Projects Section ꒱ ⏔⏔⏔*/
@@ -241,7 +241,7 @@ span{
 .projects-img img{
     width: 25vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px rgba(183, 74, 74, 0.5);
+    box-shadow: 0 0 25px #6b545f;
 }
 
 /*⏔⏔⏔ ꒰ Contact Section ꒱ ⏔⏔⏔*/
@@ -266,7 +266,7 @@ span{
 .contact-img img{
     width: 25vw;
     border-radius: 50%;
-    box-shadow: 0 0 25px rgba(183, 74, 74, 0.5);
+    box-shadow: 0 0 25px #6b545f;
 }
 
 /*⏔⏔⏔ ꒰ Social Icons ꒱ ⏔⏔⏔*/
@@ -300,22 +300,22 @@ span{
 .btn{
     display: inline-block;
     padding: 1rem 2.8rem;
-    background-color: black;
+    background-color: #ffffff;
     border-radius: 4rem;
     font-size: 1.6rem;
-    color: #b74b4b;
+    color: #C37BA1;
     letter-spacing: 0.3rem;
     font-weight: 600;
-    border: 2px solid #b74b4b;
+    border: 2px solid #C37BA1;
     transition: 0.3s ease;
     cursor: pointer;
 }
 
 .btn:hover{
     transform: scale3d(1.03);
-    background-color: #b74b4b;
+    background-color: #7D5D6B;
     color: black;
-    box-shadow: 0 0 25px #b74b4b;
+    box-shadow: 0 0 25px #7D5D6B;
 }
 
 .typing-text{
@@ -348,7 +348,7 @@ span{
 /*⏔⏔⏔ ꒰ Keyframes and more ꒱ ⏔⏔⏔*/
 @keyframes cursor{
     to{
-        border-left: 3px solid #b74b4b;
+        border-left: 3px solid #C37BA1;
     }
 }
 
