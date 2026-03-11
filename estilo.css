@@ -330,7 +330,7 @@ span{
 
 .typing-text span::before{
     content: "Software Engineering";
-    color: #b74b4b;
+    color: #E8DBD2;
     animation: words 20s infinite;
 }
 
